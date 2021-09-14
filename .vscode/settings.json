@@ -1,0 +1,5 @@
+{
+    "deno.suggest.completeFunctionCalls": true,
+    "deno.enable": true,
+    "deno.lint": true
+}
